@@ -56,9 +56,11 @@ This special remastered edition is exclusively available on the Autonomi Network
 
 ## How to Access
 
-To download these tracks, follow these steps:
+If you don't already have Autonomi installed locally follow these steps:
 
 https://github.com/maidsafe/autonomi/tree/main?tab=readme-ov-file#for-users
+
+If you do then simply type ant file download <address> from a command prompt. 
 
 The downloaded files will be saved as MP3 format.
 
